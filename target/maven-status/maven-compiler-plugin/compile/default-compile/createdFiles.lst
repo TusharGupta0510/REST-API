@@ -1,0 +1,4 @@
+com\tg\rest\EmployeeResource.class
+com\tg\rest\Employee.class
+com\tg\rest\EmployeeRepository.class
+com\tg\rest\MyResource.class
